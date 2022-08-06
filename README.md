@@ -68,7 +68,7 @@
 
 
 <p align="left">
-    <a href="https://github.com/m-sehrawat/Mini-Store" target="blank">
+    <a href="https://github.com/aakarshkumarsaksham/OverStock" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=overstock App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="overstock-Store" />
     </a>
     <a href="https://github.com/rohitkumar6324/ndtv-clone" target="blank">
