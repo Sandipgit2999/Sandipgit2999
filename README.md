@@ -65,21 +65,9 @@
     <a href="https://github.com/rohitkumar6324/ndtv-clone" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ndtv App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="ndtv-App" />
     </a>
-    <!-- <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a> -->
+    <a href="https://github.com/Sandipgit2999/affable-scissors-7552" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bluemercury App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Bluemercury-App" />
+    
 </p>
 <br>
 
@@ -103,7 +91,6 @@
 </p>
 <br>
 
-
 <p align="center">
     <a href="https://github.com/Sandipgit2999/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandipgit2999&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -126,7 +113,6 @@
   <a href="https://github.com/Sandipgit2999/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipgit2999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-
 <br/>
 <br/>
 
@@ -134,13 +120,12 @@
 
 <br/>
 
-
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Sandipgit2999">
 </a>
 <a href="https://github.com/Sandipgit2999?tab=followers"><img src="https://img.shields.io/github/followers/Sandipgit2999?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
