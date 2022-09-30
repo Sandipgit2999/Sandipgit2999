@@ -6,8 +6,6 @@
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
-
-
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
@@ -18,8 +16,6 @@
     <i>- Currently learning full stack web development at Masai School </i>
 </h3>
 <br>
-
-
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
@@ -32,8 +28,6 @@
     </a>
 </p> -->
 <br>
-
-
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
@@ -60,12 +54,9 @@
 </p>
 <br>
 
-
-
 <!----------------------------------- Project Section ------------------------------------>
 
 <h2><i>My top projects</i></h2>
-
 
 <p align="left">
     <a href="https://github.com/aakarshkumarsaksham/OverStock" target="blank">
@@ -92,12 +83,9 @@
 </p>
 <br>
 
-
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
-
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sandip-suryawanshi-083096235/">
@@ -116,17 +104,42 @@
 <br>
 
 
+<p align="center">
+    <a href="https://github.com/Sandipgit2999/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandipgit2999&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<!-- <h2><i>My GitHub Stats</i></h2>
+<h2><i>My GitHub Stats</i></h2>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
-</p> -->
+<!-- <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandipgit2999&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipgit2999&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+</p>
 <br>
+## 📊 My Github Stats -->
 
+  <br/>
+    <a href="https://github.com/Sandipgit2999/github-readme-stats"><img alt="Sandip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sandipgit2999&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Sandipgit2999/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipgit2999&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sandipgit2999&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sandipgit2999">
+</a>
+<a href="https://github.com/Sandipgit2999?tab=followers"><img src="https://img.shields.io/github/followers/Sandipgit2999?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <!----------------------------------- Top Repository Section ------------------------------------>
@@ -159,5 +172,5 @@
     <a href="https://github.com/m-sehrawat/Adidas-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
-    
+
 </p> -->
