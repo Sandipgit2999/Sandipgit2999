@@ -70,7 +70,7 @@
     <a href="https://twitter.com/SandipS45908282">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
     </a>
-    <a href="https://mypersonal-portfolio.vercel.app/">
+    <a href="https://sandipgit2999.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
     <a title="suryawanshisandip2999@gmail.com" href="mailto:suryawanshisandip2999@gmail.com">
